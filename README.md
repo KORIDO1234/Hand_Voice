@@ -2,7 +2,7 @@
 시각 장애인을 위한 손글씨 인식 후 음성변환 시스템
 
 # 사용 모델
-intel_openvino_zoo 의 손글씨 인식 모델 사용
+intel_openvino_zoo -  handwritten-english-recognition-0001 사용
 
 # 시스템 구성도
 
