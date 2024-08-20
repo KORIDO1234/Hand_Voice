@@ -8,7 +8,7 @@
 
 # 개발 
 
-## 1. 모델의 output을 텍스트 파일로 저장하
+## 1. 모델의 output을 텍스트 파일로 저장
 ![image](https://github.com/user-attachments/assets/e7fd119c-008a-4ed6-9a60-f49e19c21492)
 
 ## 2. tts를 사용하여 음성화 후 mp3 파일로 저장
